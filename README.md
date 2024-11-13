@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=rondido&fontSize=50&animation=fadeIn&fontAlign=50&stroke=fffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=rondido👏&fontSize=50&animation=fadeIn&fontAlign=50&stroke=fffffff&fontAlignY=30)
 
 
 ### Introduce
@@ -18,6 +18,17 @@
     height="120"
   />
 </a>
+  
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="(https://velog.io/@rondido/posts)">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="(https://rondido.notion.site/rondido-PARA-3d1c96a2c6d247648c83805d2308f5e5?pvs=4)">
+        <img src="https://img.shields.io/badge/
+        notion?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
   
 
 
