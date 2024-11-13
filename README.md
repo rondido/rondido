@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
 </p>
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername=rondido&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/rondido"
@@ -18,18 +22,7 @@
     height="120"
   />
 </a>
-  
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="(https://velog.io/@rondido/posts)">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="(https://rondido.notion.site/rondido-PARA-3d1c96a2c6d247648c83805d2308f5e5?pvs=4)">
-        <img src="https://img.shields.io/badge/
-        notion?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
-
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rondido&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondido&layout=compact" />
+</div>
